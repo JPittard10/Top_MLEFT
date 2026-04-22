@@ -1,0 +1,1 @@
+{"process_id": "tt", "epochs": 15, "lr": 0.001, "n_batches": 5, "output_size": 1, "hidden_sizes": [100, 100, 100], "n_dat": 1000000, "event_data": "/depot/cms/top/jpittard/Purdue_Analysis_EFT/pickel_files", "features": ["gen_ttbar_mass", "gen_ttbar_rapidity"], "loss_type": "CE", "scaler_type": "robust", "patience": 20, "val_ratio": 0.2, "c_train": {"ctGRe": 2, "ctu8": 0}}
